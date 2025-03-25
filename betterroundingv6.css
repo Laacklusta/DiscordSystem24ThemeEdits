@@ -39,6 +39,7 @@
 	bottom: -4px;
 	right: -4px;
 	border: 2px solid var(--bg-0);
+	border-radius: 20%;
 }
 .wrapper__44b0c:has(rect[fill='#23a55a'])::after {
 	background: var(--online-dot) !important;
