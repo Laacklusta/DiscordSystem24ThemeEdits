@@ -1,7 +1,7 @@
 /* unrounding */
 ::-webkit-scrollbar-thumb,
 * {
-	border-radius: 0 !important;
+/* 	border-radius: 0 !important; */
 }
 /* hide round masks */
 [class^='listItem_'] [class^='wrapper_'] > [class^='svg_'] > mask,
