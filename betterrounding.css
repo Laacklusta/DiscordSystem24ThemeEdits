@@ -1,7 +1,7 @@
 /* unrounding */
 ::-webkit-scrollbar-thumb,
 * {
-	border-radius: 0 !important;
+	border-radius: 20% !important;
 }
 /* hide round masks */
 [class^='listItem_'] [class^='wrapper_'] > [class^='svg_'] > mask,
@@ -17,7 +17,7 @@
 .overlay__75742:after,  /* profile popup */
 .overlay_c0bea0:after {
 	/* user settings */
-	border-radius: 0;
+	border-radius: 20%;
 }
 
 /* hide status indicators */
